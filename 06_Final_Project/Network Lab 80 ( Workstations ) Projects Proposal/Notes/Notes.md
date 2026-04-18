@@ -1,0 +1,1 @@
+“Due to limited Gigabit interfaces on the core switch, one access switch is connected via FastEthernet, which may introduce a bandwidth bottleneck. In a real deployment, this would be resolved using additional Gigabit modules or EtherChannel.”

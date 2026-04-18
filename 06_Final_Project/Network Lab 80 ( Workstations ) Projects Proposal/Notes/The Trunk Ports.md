@@ -1,0 +1,3 @@
+- Every connection from the router to the primary switches (TL-SG3428 and the two TL-SG2218s) must be a **Trunk**.
+    
+- **Why?** A trunk port is designed to carry traffic for **multiple VLANs** (Virtual Local Area Networks) across a single link. Since your router is managing the traffic for the Hardware, NDICT, and Graphics labs, it needs to send all those different data "lanes" down to the switches. If those weren't trunks, you would need a separate physical cable for every single VLAN.

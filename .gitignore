@@ -1,0 +1,27 @@
+# Obsidian
+.obsidian/
+
+# One-time utility scripts
+rename-screenshots.ps1
+rename_images.py
+fix_md_paths.py
+cleanup_orphans_and_obsidian.py
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+
+# Build output
+*.log
+
+# Cisco Packet Tracer temp/backup files
+*.pkt~
+
+# Original messy files and internal planning docs — not for public repo
+Files/
