@@ -7,6 +7,7 @@
 ![Labs](https://img.shields.io/badge/Labs-15%2B-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+[![Live 3D Lab](https://img.shields.io/badge/Live-3D%20Lab%20Model-ffd166?style=for-the-badge&logo=threedotjs&logoColor=black)](https://homemadeict.github.io/networking-packet-tracer-labs/)
 [![GitHub](https://img.shields.io/badge/GitHub-HomemadeICT-black?style=for-the-badge&logo=github)](https://github.com/HomemadeICT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Theekshana%20Prabodha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theekshana-prabodha/)
 
@@ -976,6 +977,36 @@ Design and implement a complete enterprise network for **TechNova**, a fictional
 ## Project 6.2 — Network Lab 80 Workstations (NVQ Final Proposal)
 
 📁 **Path**: `06_Final_Project/Network Lab 80 ( Workstations ) Projects Proposal/`
+
+### 🧊 Interactive 3D Model — Lab in a Box
+
+[![Open the live 3D model](https://img.shields.io/badge/▶%20Open%20live%203D%20model-Lab%20in%20a%20Box-ffd166?style=for-the-badge)](https://homemadeict.github.io/networking-packet-tracer-labs/)
+
+The whole lab, built to the floor-plan dimensions as a 3D diorama in a glass display case: all 80 PCs, 7 laptops, 3 printers, the 6U wall rack (Router0 + Core-Switch), the DHCP/DNS/WEB server, 5 access switches and every cable colour-coded by VLAN. Runs in any modern browser — nothing to install.
+
+| How to explore | |
+|---|---|
+| **Camera angles** | One-click views in the bottom bar: Overview · Staff room · Server rack · Hardware · NDICT · Graphics · Floor plan |
+| **Layers** | Toggle walls, glass case, labels, PC numbers and each VLAN's cabling |
+| **Navigate** | Drag to orbit · right-drag to pan · scroll zooms toward the cursor · double-click any spot to fly in |
+| **Inspect** | Click any device to see its real config from this project — SVIs, trunks, allowed VLANs, ports, DHCP pools, NAT |
+| **Simulate** | Animated DHCP relay, inter-VLAN routing and NAT traffic, plus an ACL preview that drops lab-to-lab packets |
+
+<table>
+<tr>
+<td><a href="https://homemadeict.github.io/networking-packet-tracer-labs/"><img src="docs/screenshots/02-overview-fullscreen.jpg" alt="3D overview of the lab in its glass case"></a><br><sub>Overview — the full building in its glass case</sub></td>
+<td><a href="https://homemadeict.github.io/networking-packet-tracer-labs/"><img src="docs/screenshots/04-rack.jpg" alt="Server rack with router, core switch and server"></a><br><sub>Server rack — Router0, Core-Switch, server, UPS, VLAN-coloured trunks</sub></td>
+</tr>
+<tr>
+<td><a href="https://homemadeict.github.io/networking-packet-tracer-labs/"><img src="docs/screenshots/05-ndict.jpg" alt="NDICT and Hardware labs"></a><br><sub>NDICT &amp; Hardware labs with their access switches</sub></td>
+<td><a href="https://homemadeict.github.io/networking-packet-tracer-labs/"><img src="docs/screenshots/07-top.jpg" alt="Top-down floor plan view"></a><br><sub>Floor plan view — matches the wiring plan</sub></td>
+</tr>
+<tr>
+<td><a href="https://homemadeict.github.io/networking-packet-tracer-labs/"><img src="docs/screenshots/03-staff.jpg" alt="Staff room"></a><br><sub>Staff room — VLAN 40 laptops and printer</sub></td>
+<td><a href="https://homemadeict.github.io/networking-packet-tracer-labs/"><img src="docs/screenshots/01-overview-with-panel.jpg" alt="Control panel"></a><br><sub>Control panel — camera angles, layers, device details</sub></td>
+</tr>
+</table>
+
 
 ### 🎯 Objective
 Design a secure, reliable, and scalable wired network for an IT educational institution with **80 workstations** across 3 specialized computer labs — submitted as the NVQ Level 5 final project proposal.
