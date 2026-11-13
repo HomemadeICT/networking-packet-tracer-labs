@@ -21,7 +21,18 @@
 
 ## ✨ Featured — Network Lab 80: 3D Lab in a Box
 
-[**Network Lab 80 — 3D Lab in a Box**](Network%20Lab%2080%20%E2%80%94%203D%20Lab%20in%20a%20Box.html) is an interactive 3D model of the 80-workstation campus lab from the final project (Project 6.2). Open the HTML file in any modern browser (internet needed for the Three.js CDN): orbit, zoom, click any device for its config, and watch live packet animation across 4 VLANs, the Layer 3 core switch, DHCP relay and NAT/PAT.
+<div align="center">
+
+[![Network Lab 80 — interactive 3D model: Hardware, NDICT and Graphics labs with VLAN labels](screenshots/02-overview-fullscreen.jpg)](https://theekmind.com/network-lab-80/)
+
+**[▶ Launch the live 3D lab → theekmind.com/network-lab-80](https://theekmind.com/network-lab-80/)**
+
+</div>
+
+An interactive 3D model of the 80-workstation campus lab from the final project (Project 6.2). Orbit, zoom and click any device to see its configuration, and watch live packet animation across 4 VLANs, the Layer 3 core switch, DHCP relay and NAT/PAT.
+
+- **Live:** [theekmind.com/network-lab-80](https://theekmind.com/network-lab-80/) (also mirrored on [GitHub Pages](https://homemadeict.github.io/networking-packet-tracer-labs/))
+- **Offline:** open [`index.html`](index.html) in any modern browser (internet needed for the Three.js CDN)
 
 ---
 
@@ -68,7 +79,7 @@ Each lab folder holds the `.pkt` file, screenshots and a `README.md` with object
 | Project | Topic |
 |---------|-------|
 | [6.1 TechNova Enterprise Network (Capstone)](06_Final_Project/Capstone%20Project/TechNova-Enterprise-Network-Design/) | Hierarchical design, VLANs, OSPF/static, STP, security, guest Wi-Fi |
-| [6.2 Network Lab 80 Workstations (NVQ Proposal)](06_Final_Project/Network%20Lab%2080%20%28%20Workstations%20%29%20Projects%20Proposal/) | 80 PCs in 3 labs, L3 core, DHCP, NAT, full proposal PDF/DOCX. See also the [3D model](Network%20Lab%2080%20%E2%80%94%203D%20Lab%20in%20a%20Box.html) |
+| [6.2 Network Lab 80 Workstations (NVQ Proposal)](06_Final_Project/Network%20Lab%2080%20%28%20Workstations%20%29%20Projects%20Proposal/) | 80 PCs in 3 labs, L3 core, DHCP, NAT, full proposal PDF/DOCX. See also the [live 3D model](https://theekmind.com/network-lab-80/) |
 
 ---
 
